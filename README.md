@@ -6,7 +6,8 @@ The scripts included are:
 
 | Script    | Description |
 |-----------|--------------|
-| `click`   | used to take pictures |
-| `preview` | used to preview the video |
-| `render`  | used to render a video from the images |
-| `go`      | used to coordinate the use of the other scripts in a convenient manner |
+| `click`   | Fetch a picture and name it with increasing numbering |
+| `preview` | Preview the animation from the videos |
+| `render`  | Render a video from the images |
+| `go`      | Control the use of the other scripts in a convenient manner |
+| `config`  | Configuration file used by the other scripts |
