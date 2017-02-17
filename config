@@ -1,0 +1,11 @@
+# Config file for stop-motion
+
+# This file should only contain key/value-pairs and comments as this file is
+# included in all scripts used in the stop-motion bundle.
+
+# Frame rate used by preview and render
+fps=10
+
+# Command used to get images
+img_get_cmd="wget -q http://192.168.1.6:8080/shot.jpg"
+
