@@ -4,7 +4,9 @@ This is a collection of bash scripts used to create stop motion animations. I us
 
 The scripts included are:
 
-* `click` - used to take pictures
-* `preview - used to preview the video
-* `render` - used to render a video from the images
-* `go` - used to coordinate the use of the other scripts in a convenient manner
+| Script    | Description |
+|-----------|--------------|
+| `click`   | used to take pictures |
+| `preview` | used to preview the video |
+| `render`  | used to render a video from the images |
+| `go`      | used to coordinate the use of the other scripts in a convenient manner |
