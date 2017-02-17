@@ -7,7 +7,7 @@ The scripts included are:
 | Script    | Description |
 |-----------|--------------|
 | `click`   | Fetch a picture and name it with increasing numbering |
-| `preview` | Preview the animation from the videos |
+| `preview` | Preview the animation from the images |
 | `render`  | Render a video from the images |
 | `go`      | Control the use of the other scripts in a convenient manner |
 | `config`  | Configuration file used by the other scripts |
